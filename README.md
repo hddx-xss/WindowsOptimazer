@@ -243,7 +243,7 @@ AudioSrv, AudioEndpointBuilder, wuauserv, bits, dosvc, TrustedInstaller
 Clone the repository or download the latest release archive:
 
 ```powershell
-git clone https://github.com/your-username/WindowsOptimizer.git
+git clone https://github.com/hddx-xss/WindowsOptimazer
 cd WindowsOptimizer
 ```
 
