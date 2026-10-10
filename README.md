@@ -423,5 +423,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ---
 
 <p align="center">
-  <em>Developed with precision by a Senior Windows Performance Optimization Engineer.</em>
+  <em>Developed with precision by a HDDX.</em>
 </p>
