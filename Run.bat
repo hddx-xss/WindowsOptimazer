@@ -1,6 +1,6 @@
 @echo off
 :: Root launcher pointing to WindowsOptimizer\WindowsOptimizer1.bat
-set "TARGET_BAT=%~dp0WindowsOptimizer\WindowsOptimizer.bat"
+set "TARGET_BAT=%~dp0WindowsOptimizer\WindowsOptimizer1.bat"
 if exist "%TARGET_BAT%" (
     call "%TARGET_BAT%" %*
 ) else (
